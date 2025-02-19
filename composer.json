@@ -11,7 +11,7 @@
     "repositories": {
         "cachet-core": {
             "type": "vcs",
-            "url": "git@github.com:cachethq/core.git"
+            "url": "git@github.com:sconnole/cachethq-core.git"
         }
     },
     "require": {
